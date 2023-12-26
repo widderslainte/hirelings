@@ -1,0 +1,2 @@
+# hirelings
+Python hireling generator
